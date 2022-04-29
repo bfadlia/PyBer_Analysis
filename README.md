@@ -10,7 +10,7 @@ The following data was obtained though the analysis
 ### Total Fare by city type chart from January to April 2019
    ![IMAGE_DESCRIPTION](/analysis/PyBer_fare_summary.png)
 
-key findings from the above data:
+#### key findings from the above data:
 - Urban cities have the highest ride demand, suburban cities has less and rural cities have the least.
 - In terms of number of driversUrban cities have about 5 times more drivers than suburban cities which in turn has more than 6 times the number of rural cities.
 - However, the ratio of rides per number of drivers is highest is rural cities, followed by suburban cities then urban cities are the least in that ratio.
