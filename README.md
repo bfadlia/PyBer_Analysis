@@ -6,9 +6,9 @@ The purpose of this project is to analyze all the rideshare data from January to
 ## Results 
 The following data was obtained though the analysis
 ### A ride-sharing summary DataFrame by city type
-- ![IMAGE_DESCRIPTION](/analysis/summary-dataframe.png)
+   ![IMAGE_DESCRIPTION](/analysis/summary-dataframe.png)
 ### Total Fare by city type chart from January to April 2019
-- ![IMAGE_DESCRIPTION](/analysis/PyBer_fare_summary.png)
+   ![IMAGE_DESCRIPTION](/analysis/PyBer_fare_summary.png)
 
 key findings from the above data:
 - Urban cities have the highest ride demand, suburban cities has less and rural cities have the least.
